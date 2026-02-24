@@ -1,9 +1,9 @@
-🔗 URL Shortener — Go (Golang)
+🔗 **URL Shortener — Go (Golang)**
 
 A simple and efficient URL shortener service built using Go (Golang).
 This application converts long URLs into short, shareable links and redirects users to the original URL when accessed.
 
-🚀 Features
+🚀 **Features**
 
 Shorten long URLs
 
@@ -19,7 +19,7 @@ Simple and scalable architecture
 
 Easy deployment
 
-🏗️ Tech Stack
+🏗️ **Tech Stack**
 
 Language: Go (Golang)
 
@@ -29,7 +29,7 @@ Database: In-memory
 
 Architecture: REST API
 
-⚙️ Installation & Setup
+⚙️ **Installation & Setup**
 1. Clone the repository
 git clone https://https://github.com/majesticdrag0n/URL_Shortner.git
 cd url-shortener
@@ -63,7 +63,7 @@ Response:
 Example:
 
 http://localhost:8080/abc123
-🧠 How It Works
+🧠 **How It Works**
 
 User submits a long URL.
 
@@ -89,7 +89,7 @@ Distributed storage
 
 Caching with Redis
 
-🧪 Testing
+🧪 **Testing**
 
 Run tests using:
 
